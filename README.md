@@ -1,5 +1,7 @@
-<h1>Super shoes</h1>
-<h2>Carrossel com React</h2>
+
+<h1>Carrossel com React</h1>
+<p>Super shoes</p>
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/64099512/140006998-97156781-3ac4-4528-b8f2-99afa9766004.png" width="600px" />
 </div>
